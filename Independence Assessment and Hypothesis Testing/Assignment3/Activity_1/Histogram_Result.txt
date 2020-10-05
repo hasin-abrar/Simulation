@@ -1,0 +1,4 @@
+Del(b)= 0.3
+k=17
+
+The shape of the Histogram resembles with that of a Weibull density.

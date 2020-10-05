@@ -1,0 +1,19 @@
+Minimum:  0.126
+Maximum:  4.345
+Mean:  1.1599466666666667
+Median:  0.943
+Variance:  0.7328737809009009
+Coeff. of Variance:  0.7380343427128377
+Lexis Ratio:  0.6318167912038205
+Skewness:  2.1265552574071966
+
+**********************************************************************
+Result:
+
+There is no specific domain for generated data. So, sample dataset is continous.
+
+Mean > Median :: Not Symmetric.
+
+Skewness > 0 :: Skewed to Right.
+
+Coefficient of variation < 0 :: Weibull or Gamma.

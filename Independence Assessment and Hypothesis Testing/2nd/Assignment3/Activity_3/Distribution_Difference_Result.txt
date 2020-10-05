@@ -1,0 +1,3 @@
+As size of dataset is small(=75) Distribution Difference indicates a bad fit.But considering 
+this small size of sample data, we can say Fitted distribution somewhat represents 
+Sample Distribution.

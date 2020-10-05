@@ -1,0 +1,6 @@
+K=101
+X^2= 144.4174257425742
+X^2(100,0.95)= 124.342
+X^2(100,0.90)= 118.498
+Reject the Hypothesis at alpha=0.05
+Reject the Hypothesis at alpha=0.10
